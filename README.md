@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [mariall-app](https://github.com/novacooo/mariall-app)
 
-- 👨‍💻 All of my projects are available at [https://novaco.dev](https://novaco.dev)
+- 👨‍💻 All of my projects are available at [novaco.dev](https://novaco.dev)
 
 - 📫 How to reach me **jaceknowak226@gmail.com**
 
