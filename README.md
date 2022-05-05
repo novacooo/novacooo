@@ -1,4 +1,4 @@
-## I'm Jacek Nowak, a Full Stack Web Developer 👨‍💻  
+# I'm Jacek Nowak, a Full Stack Web Developer 👨‍💻  
   
 
 - 📁 My website [novaco.dev](https://novaco.dev/)  
