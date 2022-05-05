@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400" />
-</div>  
-  
-
 ## I'm Jacek Nowak, a Full Stack Web Developer 👨‍💻  
   
 
