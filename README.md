@@ -1,16 +1,13 @@
 # I'm Jacek Nowak, a Full Stack Web Developer 👨‍💻  
   
 
-- 📁 My website [novaco.dev](https://novaco.dev/)  
+- 📁 My website [novacooo.github.io](https://novacooo.github.io/)  
   
 
 - 📫 Contact with me [jaceknowak.kontakt@gmail.com](mailto:jaceknowak.kontakt@gmail.com?subject=Hi%20Jacek!)  
   
 
 - 🔭 I’m currently working on [mariall-app](https://github.com/novacooo/mariall-app)  
-  
-
-- 🌱 I’m currently learning GraphQL & MongoDB  
   
 
 - ⚡ Fun fact: I like riding a motorcycle  
