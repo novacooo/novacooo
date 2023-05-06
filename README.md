@@ -1,10 +1,6 @@
-# I'm Jacek Nowak, a Full Stack Web Developer 👨‍💻  
-
-- 📁 My website [novacooo.github.io](https://novacooo.github.io/)  
+# I'm Jacek Nowak, a Full Stack Web Developer 👨‍💻   
 
 - 📫 Contact with me [jaceknowak.kontakt@gmail.com](mailto:jaceknowak.kontakt@gmail.com?subject=Hi%20Jacek!)  
-
-- ⚡ Fun fact: I like riding a motorcycle  
 
 <br/>  
 
